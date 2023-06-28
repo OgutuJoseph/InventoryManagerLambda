@@ -29,7 +29,7 @@ public class Functions
         var response = new APIGatewayProxyResponse
         {
             StatusCode = (int)HttpStatusCode.OK,
-            Body = "Hello AWS Serverless",
+            Body = "My first lambda is alive!",
             Headers = new Dictionary<string, string> { { "Content-Type", "text/plain" } }
         };
 
