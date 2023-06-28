@@ -1,9 +1,0 @@
-Part One: https://www.youtube.com/watch?v=I581mkYRRZA&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&ab_channel=Full-StackDev
-Part Two: https://www.youtube.com/watch?v=6_Q3Nr2AFJE&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=3&ab_channel=Full-StackDev
-Part Three: https://www.youtube.com/watch?v=-blQYPCtX2E&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=4&ab_channel=Full-StackDev
-Part Four: https://www.youtube.com/watch?v=zQUK7ttCkq4&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=5&ab_channel=Full-StackDev
-Part Five: https://www.youtube.com/watch?v=cY83qE8X1T0&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=6&ab_channel=Full-StackDev
-Part Six: https://www.youtube.com/watch?v=4Yxy6sVNbW4&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=7&ab_channel=Full-StackDev
-Part Seven: https://www.youtube.com/watch?v=hjd6LyP0lP4&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=8&ab_channel=Full-StackDev
-Part Eight: https://www.youtube.com/watch?v=EjiFj772thM&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=9&ab_channel=Full-StackDev
-Part Nine: https://www.youtube.com/watch?v=NUJ0mMDn4v0&list=PLBMCyCQ4nalYgsvnM2I7Y7cP5bqgjdfB5&index=10&ab_channel=Full-StackDev
